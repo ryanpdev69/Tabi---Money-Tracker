@@ -1,5 +1,7 @@
 # Tabi - Money Tracker
 
+![Tabi Preview](assets/app_icon.png)
+
 ## 🇵🇭 Your Simple & Private Money Tracker
 
 Tabi is a simple offline money tracker made for Filipinos who want an easier way to manage their daily finances.  
