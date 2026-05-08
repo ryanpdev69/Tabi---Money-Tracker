@@ -61,14 +61,13 @@ Manage all your wallets and bank accounts in one place.
 
 - Cash
 - GCash
-- Maya
 - GoTyme
 - MariBank
 - And more
 
 ### Customization
 
-- Customize account colors
+- Customize account card colors
 - Add your own bank logos
 - Track balances separately
 
